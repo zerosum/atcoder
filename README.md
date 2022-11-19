@@ -1,1 +1,1 @@
-# atcoder-rust
+# atcoder
